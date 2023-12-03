@@ -28,6 +28,10 @@ body {
     color: var(--heading-color);
 }
 
+h1 {
+    font-size: 2em;
+}
+
 p {
     font-weight: 400;
     color: var(--text-color);
