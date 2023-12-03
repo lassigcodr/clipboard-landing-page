@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/clipboard-scrn.jpg)
+![screenshot for challenge hero page](./images/clipboard-scrn.jpg)
 
 
 ### Links
