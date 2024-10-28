@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot for challenge hero page](./images/clipboard-scrn.jpg)
+![screenshot for challenge hero page](../images/clipboard-scrn.jpg)
 
 
 ### Links
 
-- Live Site: [Click here](https://ctrlwisdom.github.io/clipboard-landing-page/index.html)
+- Live Site: [Click here](https://lassigcodr.github.io/clipboard-landing-page/index.html)
 
 ## My process
 
